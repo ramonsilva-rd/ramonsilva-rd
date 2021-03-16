@@ -2,7 +2,7 @@
 
 [![Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=ramonsilva-rd)](https://github.com/ramonsilvanet/github-readme-stats)
 
-Engenheiro na equipe LeadGen
+Engenheiro na equipe [LeadGen](https://oraculo.rdstation.com.br/times/rdsm/leadgen).
  
 ## Minhas Skills
 
@@ -12,7 +12,7 @@ Gosto de trabalhar em projetos inovadores e de grande impacto, e busco oportunid
 
 * Possuo experiência nas linguagens C#, Java, Kotlin, Python, PHP, Javascript, Ruby e Python, incluindo metodologias de Testes (TDD, BDD) e Integração Contínua. 
  
-* Tenho conhecimentos ncia com Docker, AWS, GCP e servidores linux em geral.  
+* Tenho conhecimentos  com Docker, AWS, GCP e servidores linux em geral.  
 
 * Tenho expertise em Machine Learning, Deep Learning e Inteligência Artificial.
 
