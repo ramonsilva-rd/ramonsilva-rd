@@ -1,6 +1,6 @@
 -## Um pouco sobre mim...
 
-[![Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=ramonsilvanet)](https://github.com/ramonsilvanet/github-readme-stats)
+[![Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=ramonsilva-rd)](https://github.com/ramonsilvanet/github-readme-stats)
 
 Engenheiro na equipe LeadGen
  
